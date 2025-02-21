@@ -5,4 +5,4 @@ This project analyzes salary trends based on **age, gender, education, job title
 
 ## 📂 Project Structure
 
-salary-analysis-project/ │-- data/ # Raw and cleaned datasets │-- notebooks/ # Jupyter notebooks for analysis │-- tableau/ # Tableau dashboard │-- README.md # Project documentation |
+|-- salary-analysis-project/ │-- data/ # Raw and cleaned datasets │-- notebooks/ # Jupyter notebooks for analysis │-- tableau/ # Tableau dashboard │-- README.md # Project documentation |
